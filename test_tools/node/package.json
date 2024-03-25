@@ -6,7 +6,7 @@
     "email": "snibug@linecorp.com"
   },
   "devDependencies": {
-    "express": "4.13.1",
+    "express": "4.19.2",
     "http2": "3.2.0",
     "http-proxy": "1.12.0",
     "minimist": "1.2.0",
